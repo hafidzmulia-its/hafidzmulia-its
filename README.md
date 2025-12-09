@@ -1,68 +1,80 @@
 # Hi, I'm Hafidz 👋
 
-Math student @ ITS • Web Developer (Laravel, Next.js, TypeScript) • Interested in data/AI & teaching.
+**Web Developer & Math Student @ ITS**
+
+I enjoy turning ideas and class projects into real web applications that people actually use — especially for campus, communities, and learning. Most of my work lives around Laravel, Next.js, and relational databases, with a growing interest in data & AI.
 
 ---
 
-## 🔭 What I'm working on
+## 🌱 About me
 
-- 📚 **Literasik** – web-based Library Management System built with Laravel 12, Blade, Tailwind CSS, MySQL, lengkap dengan manajemen buku, siswa, peminjaman, denda otomatis, dan dashboard statistik.  
-- 🗺️ **ITS KosFinder (E-Kos)** – full-stack kos finder untuk mahasiswa baru ITS dengan peta interaktif Leaflet, filter cerdas, dan manajemen listing berbasis Next.js + Supabase.  
-- 📖 **Sina – Children's Storybook Platform** – platform cerita anak dengan progress tracking, role-based access (User/Admin/Superadmin), dan admin CMS ringan.  
-- 🕐 **SI Presensi** – sistem presensi sederhana berbasis Laravel & Blade untuk mengelola kehadiran.
-
----
-
-## 💼 Highlighted Projects
-
-### 📚 Literasik
-A comprehensive library management system for schools: kelola buku, eksemplar, siswa, peminjaman, pengembalian, hingga denda keterlambatan secara otomatis.  
-**Tech:** PHP 8.2+, Laravel 12, Blade, Tailwind CSS, MySQL, Vite, Laravel Breeze.
-
-### 🗺️ ITS KosFinder (E-Kos)
-Full-stack web app untuk mencari kos di sekitar ITS dengan peta interaktif, filter fasilitas, budget, dan tipe kos. Mendukung login Google, role USER/ADMIN, dan dashboard pemilik kos.  
-**Tech:** Next.js (App Router), TypeScript, Tailwind CSS, Leaflet + React Leaflet, Supabase (PostgreSQL + PostGIS), NextAuth, Vercel.
-
-### 📖 Sina – Children's Storybook Platform
-Platform cerita anak dengan tampilan ramah anak, progress tracking per user, dan admin CMS untuk mengelola buku & pengguna. Mengubah desain Figma menjadi halaman produksi yang responsif.  
-**Tech:** Laravel, Blade, Tailwind CSS, Cloudinary, Laravel Breeze, Vercel.
-
-### 🕐 SI Presensi
-Sistem presensi sederhana untuk mengelola kehadiran dengan stack Laravel + Blade.  
-**Tech:** Laravel, Blade, Tailwind CSS, MySQL.
+- 🎓 Undergraduate Mathematics student at Institut Teknologi Sepuluh Nopember (ITS)
+- 💻 Build full-stack web applications for campus needs, organizations, and personal projects
+- 📚 Enjoy explaining programming & algorithms in a simple way, often through small tools and example code
+- 🧠 Curious about how math, data, and software engineering can solve real-world problems
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Selected Projects
 
-**Languages**
-- PHP • TypeScript • JavaScript • Java • Python • SQL
+A few examples of things I’ve built:
 
-**Web & Frameworks**
-- Laravel (Breeze, Eloquent ORM)  
-- Next.js (App Router) • React  
-- Blade Templates • Tailwind CSS • Alpine.js  
-- Vue (for small experiments)
+- **E-Kos – Boarding House Finder around ITS**  
+  Web GIS application to help students find boarding houses near campus, with interactive maps, filters, and role-based access for admins/owners.  
+  _Built with Next.js, TypeScript, Tailwind CSS, Supabase (PostgreSQL/PostGIS), and Leaflet._
 
-**Data & Tools**
-- MySQL • PostgreSQL • Supabase • PostGIS  
-- Git & GitHub • GitHub Actions • Vercel • Railway • Shared hosting (Hostdata.id)
+- **Literasik – School Library System**  
+  Library management system to handle books, copies, students, lending/returning, and automatic late fees, plus a simple dashboard for librarians.  
+  _Built with Laravel, Blade, Tailwind CSS, MySQL._
 
----
+- **Sina – Children’s Storybook Platform**  
+  Platform for children’s stories with a kid-friendly UI, reading progress tracking, and an admin panel to manage books and users.  
+  _Built with Laravel, Blade, Tailwind CSS, Cloudinary, and role-based auth._
 
-## ✏️ Teaching & Learning
+- **SI Presensi – Attendance System**  
+  Simple attendance system to manage presence records and basic reporting for classes or small organizations.  
+  _Built with Laravel, Blade, Tailwind CSS, MySQL._
 
-- I enjoy **teaching programming** (basic Java, algorithms, and web dev) and explaining concepts in a simple way.
-- Actively learning **data science / AI** and how to combine math + code to solve real problems.
-- Many repos here (like `Tutorial-Alpro`, `MergeBinaryLinear`, `SortingButCOol`) are built to help friends & juniors understand algorithms better.
-
----
-
-## 📫 Connect
-
-- GitHub: **@hafidzmulia-its**
-- (You can add LinkedIn, email, or portfolio link here later.)
+- **Algorithm Learning Tools (Sorting & Searching)**  
+  Small Java projects and visualizations to help students understand algorithms like merge sort, selection sort, insertion sort, binary search, and linear search.  
+  _Built mainly with Java (CLI and Swing) and focused on teaching/learning._
 
 ---
 
-> “Serving people through code and teaching, starting from campus projects and growing into real-world products.”
+## 🛠 Tech Stack
+
+**Main stack**
+
+- **Backend:** PHP, Laravel, RESTful APIs  
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+- **Databases:** MySQL, PostgreSQL, Supabase, basic PostGIS  
+- **Tools & DevOps:** Git & GitHub, GitHub Actions, Vercel, shared hosting (cPanel / Hostdata)
+
+**Also familiar with**
+
+- Java (for algorithm & GUI projects)  
+- Python (for basic data / ML workflows)  
+- HTML, CSS, a bit of vanilla JavaScript
+
+---
+
+## 📚 Teaching & learning
+
+- Write small projects and examples to help friends and juniors understand **basic programming** and **algorithms**.
+- Like refactoring “tugas kuliah” into something cleaner and reusable.
+- Currently learning more about:
+  - Backend architecture & testing
+  - Integrating data/AI workflows with web apps
+  - Writing clearer documentation so others can use my projects easily
+
+---
+
+## 📫 Get in touch
+
+- 🌐 Personal site: hafmul.site
+- 💼 LinkedIn: linkedin.com/in/hafidz-mulia 
+- 📧 Email: hafidzmuliia@gmail.com
+
+---
+
+> “Serving people through code and teaching — starting from campus projects, then growing into real-world products.”
