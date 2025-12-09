@@ -6,7 +6,7 @@ Math student @ ITS • Web Developer (Laravel, Next.js, TypeScript) • Interest
 
 ## 🔭 What I'm working on
 
-- 📚 **SI Perpustakaan** – web-based Library Management System built with Laravel 12, Blade, Tailwind CSS, MySQL, lengkap dengan manajemen buku, siswa, peminjaman, denda otomatis, dan dashboard statistik.  
+- 📚 **Literasik** – web-based Library Management System built with Laravel 12, Blade, Tailwind CSS, MySQL, lengkap dengan manajemen buku, siswa, peminjaman, denda otomatis, dan dashboard statistik.  
 - 🗺️ **ITS KosFinder (E-Kos)** – full-stack kos finder untuk mahasiswa baru ITS dengan peta interaktif Leaflet, filter cerdas, dan manajemen listing berbasis Next.js + Supabase.  
 - 📖 **Sina – Children's Storybook Platform** – platform cerita anak dengan progress tracking, role-based access (User/Admin/Superadmin), dan admin CMS ringan.  
 - 🕐 **SI Presensi** – sistem presensi sederhana berbasis Laravel & Blade untuk mengelola kehadiran.
